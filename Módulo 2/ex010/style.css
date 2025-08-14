@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Nata+Sans:wght@100..900&display=swap');
+
+body{
+    font-family: 'Nata Sans';
+}
+
+h1{
+    background-color: lightgray;
+    height: auto;
+    width: 337px;
+
+    border: 10px solid slategray;
+
+    padding: 10px;
+
+    margin: 20px auto;
+
+    outline: 5px dashed black;
+}
+
+a{
+    border: 5px dashed lightgreen;
+}

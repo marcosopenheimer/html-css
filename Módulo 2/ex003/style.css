@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    font: 400 italic 1em Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font: bolder 3em Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font: bold 2em Arial, Helvetica, sans-serif;
+}
